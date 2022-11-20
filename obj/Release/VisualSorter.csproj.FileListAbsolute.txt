@@ -1,0 +1,55 @@
+C:\Users\Emil\Desktop\New VisualSorter\VisualSorter\bin\Release\VisualSorter.exe.config
+C:\Users\Emil\Desktop\New VisualSorter\VisualSorter\bin\Release\VisualSorter.exe
+C:\Users\Emil\Desktop\New VisualSorter\VisualSorter\bin\Release\VisualSorter.pdb
+C:\Users\Emil\Desktop\New VisualSorter\VisualSorter\bin\Release\Guna.UI2.dll
+C:\Users\Emil\Desktop\New VisualSorter\VisualSorter\bin\Release\Newtonsoft.Json.dll
+C:\Users\Emil\Desktop\New VisualSorter\VisualSorter\bin\Release\Newtonsoft.Json.xml
+C:\Users\Emil\Desktop\New VisualSorter\VisualSorter\obj\Release\VisualSorter.csproj.AssemblyReference.cache
+C:\Users\Emil\Desktop\New VisualSorter\VisualSorter\obj\Release\VisualSorter.Form1.resources
+C:\Users\Emil\Desktop\New VisualSorter\VisualSorter\obj\Release\VisualSorter.Properties.Resources.resources
+C:\Users\Emil\Desktop\New VisualSorter\VisualSorter\obj\Release\VisualSorter.csproj.GenerateResource.cache
+C:\Users\Emil\Desktop\New VisualSorter\VisualSorter\obj\Release\VisualSorter.csproj.CoreCompileInputs.cache
+C:\Users\Emil\Desktop\New VisualSorter\VisualSorter\obj\Release\VisualSorter.csproj.CopyComplete
+C:\Users\Emil\Desktop\New VisualSorter\VisualSorter\obj\Release\VisualSorter.exe
+C:\Users\Emil\Desktop\New VisualSorter\VisualSorter\obj\Release\VisualSorter.pdb
+C:\Users\Emil\Desktop\v2 BackUp 28.08.2022\VisualSorter\bin\Release\VisualSorter.exe.config
+C:\Users\Emil\Desktop\v2 BackUp 28.08.2022\VisualSorter\bin\Release\VisualSorter.exe
+C:\Users\Emil\Desktop\v2 BackUp 28.08.2022\VisualSorter\bin\Release\VisualSorter.pdb
+C:\Users\Emil\Desktop\v2 BackUp 28.08.2022\VisualSorter\bin\Release\Guna.UI2.dll
+C:\Users\Emil\Desktop\v2 BackUp 28.08.2022\VisualSorter\bin\Release\Newtonsoft.Json.dll
+C:\Users\Emil\Desktop\v2 BackUp 28.08.2022\VisualSorter\bin\Release\Newtonsoft.Json.xml
+C:\Users\Emil\Desktop\v2 BackUp 28.08.2022\VisualSorter\obj\Release\VisualSorter.Form1.resources
+C:\Users\Emil\Desktop\v2 BackUp 28.08.2022\VisualSorter\obj\Release\VisualSorter.Properties.Resources.resources
+C:\Users\Emil\Desktop\v2 BackUp 28.08.2022\VisualSorter\obj\Release\VisualSorter.csproj.GenerateResource.cache
+C:\Users\Emil\Desktop\v2 BackUp 28.08.2022\VisualSorter\obj\Release\VisualSorter.csproj.CoreCompileInputs.cache
+C:\Users\Emil\Desktop\v2 BackUp 28.08.2022\VisualSorter\obj\Release\VisualSorter.csproj.CopyComplete
+C:\Users\Emil\Desktop\v2 BackUp 28.08.2022\VisualSorter\obj\Release\VisualSorter.exe
+C:\Users\Emil\Desktop\v2 BackUp 28.08.2022\VisualSorter\obj\Release\VisualSorter.pdb
+C:\Users\Emil\Desktop\VisualSorter\bin\Release\VisualSorter.exe.config
+C:\Users\Emil\Desktop\VisualSorter\bin\Release\VisualSorter.exe
+C:\Users\Emil\Desktop\VisualSorter\bin\Release\VisualSorter.pdb
+C:\Users\Emil\Desktop\VisualSorter\bin\Release\Guna.UI2.dll
+C:\Users\Emil\Desktop\VisualSorter\bin\Release\Newtonsoft.Json.dll
+C:\Users\Emil\Desktop\VisualSorter\bin\Release\Newtonsoft.Json.xml
+C:\Users\Emil\Desktop\VisualSorter\obj\Release\VisualSorter.Form1.resources
+C:\Users\Emil\Desktop\VisualSorter\obj\Release\VisualSorter.Properties.Resources.resources
+C:\Users\Emil\Desktop\VisualSorter\obj\Release\VisualSorter.csproj.GenerateResource.cache
+C:\Users\Emil\Desktop\VisualSorter\obj\Release\VisualSorter.csproj.CoreCompileInputs.cache
+C:\Users\Emil\Desktop\VisualSorter\obj\Release\VisualSorter.csproj.CopyComplete
+C:\Users\Emil\Desktop\VisualSorter\obj\Release\VisualSorter.exe
+C:\Users\Emil\Desktop\VisualSorter\obj\Release\VisualSorter.pdb
+C:\Users\Emil\Desktop\VisualSorter\obj\Release\VisualSorter.csproj.AssemblyReference.cache
+C:\Users\Emil\Desktop\VisualSorter 2\bin\Release\VisualSorter.exe.config
+C:\Users\Emil\Desktop\VisualSorter 2\bin\Release\VisualSorter.exe
+C:\Users\Emil\Desktop\VisualSorter 2\bin\Release\VisualSorter.pdb
+C:\Users\Emil\Desktop\VisualSorter 2\bin\Release\Guna.UI2.dll
+C:\Users\Emil\Desktop\VisualSorter 2\bin\Release\MaterialSkin.dll
+C:\Users\Emil\Desktop\VisualSorter 2\bin\Release\Newtonsoft.Json.dll
+C:\Users\Emil\Desktop\VisualSorter 2\bin\Release\Newtonsoft.Json.xml
+C:\Users\Emil\Desktop\VisualSorter 2\obj\Release\VisualSorter.Form1.resources
+C:\Users\Emil\Desktop\VisualSorter 2\obj\Release\VisualSorter.Properties.Resources.resources
+C:\Users\Emil\Desktop\VisualSorter 2\obj\Release\VisualSorter.csproj.GenerateResource.cache
+C:\Users\Emil\Desktop\VisualSorter 2\obj\Release\VisualSorter.csproj.CoreCompileInputs.cache
+C:\Users\Emil\Desktop\VisualSorter 2\obj\Release\VisualSorter.csproj.CopyComplete
+C:\Users\Emil\Desktop\VisualSorter 2\obj\Release\VisualSorter.exe
+C:\Users\Emil\Desktop\VisualSorter 2\obj\Release\VisualSorter.pdb

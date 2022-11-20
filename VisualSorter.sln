@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualSorter", "VisualSorter.csproj", "{1226AAC6-4ECF-4763-AC50-62AAA3B4ABB3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VisualSorterSetup", "VisualSorterSetup\VisualSorterSetup.vdproj", "{7A9185CC-C4C6-4D25-90D0-E21F11C08A3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1226AAC6-4ECF-4763-AC50-62AAA3B4ABB3}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{1226AAC6-4ECF-4763-AC50-62AAA3B4ABB3}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{1226AAC6-4ECF-4763-AC50-62AAA3B4ABB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1226AAC6-4ECF-4763-AC50-62AAA3B4ABB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A9185CC-C4C6-4D25-90D0-E21F11C08A3A}.Debug|Any CPU.ActiveCfg = Release
+		{7A9185CC-C4C6-4D25-90D0-E21F11C08A3A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5CEFB81-5F36-4F55-8166-21E472B8131F}
+	EndGlobalSection
+EndGlobal
